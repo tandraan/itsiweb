@@ -1,9 +1,4 @@
-h1 {
-    text-align: center;
+.flex{
+    display: flex;
+    justify-content: space-between;
 }
-
-#subjudul {
-    color: red;
-    text-align: left;
-}
-
